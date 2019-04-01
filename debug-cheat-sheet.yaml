@@ -1,0 +1,16 @@
+product-id: 922
+comment: debug cheat sheet
+init:
+media-path: sounds/%s
+scripts:
+  one: P(one)
+  two: P(two)
+  three: P(three)
+  four: P(four)
+  five: P(five)
+  six: P(six)
+  seven: P(seven)
+  eight: P(eight)
+  nine: P(nine)
+  zero: P(zero)
+  STOP: P(STOP)

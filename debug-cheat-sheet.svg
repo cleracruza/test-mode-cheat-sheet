@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="564"
+   height="870"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="debug-cheat-sheet.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.7784011"
+     inkscape:cx="450.86155"
+     inkscape:cy="278.28515"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="327px"
+     height="372px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:description />
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#ffffff;stroke:none;stroke-width:0.10000000000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1"
+       id="rect3239"
+       width="564"
+       height="870"
+       x="0"
+       y="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:9px;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(120.3645,427.13981)"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="258.0762"
+           height="175.03603"
+           x="33.617157"
+           y="34.141281"
+           style="font-size:9px" /></flowRegion><flowPara
+         id="flowPara2991"
+         style="font-size:9px">Enter debug mode:</flowPara><flowPara
+         id="flowPara2993"
+         style="font-size:9px">* With the TipToi pen turned off,</flowPara><flowPara
+         id="flowPara2995"
+         style="font-size:9px">* Press and hold the Power symbol and “-” at same time,</flowPara><flowPara
+         style="font-size:9px"
+         id="flowPara3143">* Until a voice starts saying “Tushay Mushay [...]”.</flowPara><flowPara
+         id="flowPara3011"
+         style="font-size:9px">* Once the voice stopped,</flowPara><flowPara
+         id="flowPara3001"
+         style="font-size:9px">* Press “+”.</flowPara><flowPara
+         style="font-size:9px"
+         id="flowPara3145">* The voice starts saying “Kushay Tushay [...]”</flowPara><flowPara
+         style="font-size:9px"
+         id="flowPara3147">* After that, the TipToi pen will spell out scanned OIDs</flowPara><flowPara
+         style="font-size:9px"
+         id="flowPara3202">  digit by digit in Chinese.</flowPara><flowPara
+         style="font-size:9px"
+         id="flowPara3153">* Here are reference OIDs for Chinese digits:</flowPara><flowPara
+         id="flowPara3013"
+         style="font-size:9px" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3017"
+       style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(475.40918,572.56107)"><flowRegion
+         id="flowRegion3019"><rect
+           id="rect3021"
+           width="289.30948"
+           height="57.977852"
+           x="-270.75656"
+           y="-135.88597" /></flowRegion><flowPara
+         id="flowPara3023">Debug Mode Cheat Sheet</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985-7"
+       style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(120.09643,738.94519)"><flowRegion
+         id="flowRegion2987-3"><rect
+           id="rect2989-5"
+           width="247.64021"
+           height="28.931843"
+           x="33.617157"
+           y="34.141281" /></flowRegion><flowPara
+         id="flowPara3007-4"
+         style="font-size:9px">Leaving debug mode:</flowPara><flowPara
+         id="flowPara3013-7"
+         style="font-size:9px">* Turn off the TipToi pen as usual.</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 156.96058,457.43134 250.07884,0"
+       id="path3149"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3151"
+       width="118.8546"
+       height="31.887817"
+       x="158.74722"
+       y="585.19666">
+      <desc
+         id="desc4127">(oid:one)</desc>
+    </rect>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3228"
+       style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(184.2175,433.65613)"><flowRegion
+         id="flowRegion3230"><rect
+           id="rect3232"
+           width="99.721901"
+           height="19.712469"
+           x="16.813576"
+           y="159.80107" /></flowRegion><flowPara
+         id="flowPara3234">1 yee</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3151-5"
+       width="118.8546"
+       height="31.887817"
+       x="158.74722"
+       y="621.50531">
+      <desc
+         id="desc4127-8">(oid:two)</desc>
+    </rect>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3228-4"
+       style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(184.2175,469.96475)"><flowRegion
+         id="flowRegion3230-9"><rect
+           id="rect3232-9"
+           width="99.721901"
+           height="19.712469"
+           x="16.813576"
+           y="159.80107" /></flowRegion><flowPara
+         id="flowPara3234-1">2 ahr</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3151-1"
+       width="118.8546"
+       height="31.887817"
+       x="158.74722"
+       y="657.8139">
+      <desc
+         id="desc4127-9">(oid:three)</desc>
+    </rect>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3228-0"
+       style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(184.2175,506.27338)"><flowRegion
+         id="flowRegion3230-5"><rect
+           id="rect3232-4"
+           width="99.721901"
+           height="19.712469"
+           x="16.813576"
+           y="159.80107" /></flowRegion><flowPara
+         id="flowPara3234-4">3 sahn</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3151-4"
+       width="118.8546"
+       height="31.887817"
+       x="158.74722"
+       y="694.12256">
+      <desc
+         id="desc4127-0">(oid:four)</desc>
+    </rect>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3228-7"
+       style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(184.2175,542.58202)"><flowRegion
+         id="flowRegion3230-95"><rect
+           id="rect3232-49"
+           width="99.721901"
+           height="19.712469"
+           x="16.813576"
+           y="159.80107" /></flowRegion><flowPara
+         id="flowPara3234-3">4 suh</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3151-3"
+       width="118.8546"
+       height="31.887817"
+       x="158.74722"
+       y="730.43121">
+      <desc
+         id="desc4127-04">(oid:five)</desc>
+    </rect>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3228-3"
+       style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(184.2175,578.89065)"><flowRegion
+         id="flowRegion3230-4"><rect
+           id="rect3232-8"
+           width="99.721901"
+           height="19.712469"
+           x="16.813576"
+           y="159.80107" /></flowRegion><flowPara
+         id="flowPara3234-5">5 woo</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3151-8"
+       width="118.8546"
+       height="31.887817"
+       x="288.61761"
+       y="585.19666">
+      <desc
+         id="desc4127-82">(oid:six)</desc>
+    </rect>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3228-30"
+       style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(314.08789,433.65613)"><flowRegion
+         id="flowRegion3230-6"><rect
+           id="rect3232-46"
+           width="99.721901"
+           height="19.712469"
+           x="16.813576"
+           y="159.80107" /></flowRegion><flowPara
+         id="flowPara3234-0">6 leeo</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3151-5-9"
+       width="118.8546"
+       height="31.887817"
+       x="288.61761"
+       y="621.50531">
+      <desc
+         id="desc4127-8-9">(oid:seven)</desc>
+    </rect>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3228-4-8"
+       style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(314.08789,469.96475)"><flowRegion
+         id="flowRegion3230-9-8"><rect
+           id="rect3232-9-0"
+           width="99.721901"
+           height="19.712469"
+           x="16.813576"
+           y="159.80107" /></flowRegion><flowPara
+         id="flowPara3234-1-7">7 chee</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3151-1-9"
+       width="118.8546"
+       height="31.887817"
+       x="288.61761"
+       y="657.8139">
+      <desc
+         id="desc4127-9-9">(oid:eight)</desc>
+    </rect>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3228-0-7"
+       style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(314.08789,506.27338)"><flowRegion
+         id="flowRegion3230-5-9"><rect
+           id="rect3232-4-1"
+           width="99.721901"
+           height="19.712469"
+           x="16.813576"
+           y="159.80107" /></flowRegion><flowPara
+         id="flowPara3234-4-8">8 bah</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3151-4-8"
+       width="118.8546"
+       height="31.887817"
+       x="288.61761"
+       y="694.12256">
+      <desc
+         id="desc4127-0-4">(oid:nine)</desc>
+    </rect>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3228-7-7"
+       style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(314.08789,542.58202)"><flowRegion
+         id="flowRegion3230-95-1"><rect
+           id="rect3232-49-8"
+           width="99.721901"
+           height="19.712469"
+           x="16.813576"
+           y="159.80107" /></flowRegion><flowPara
+         id="flowPara3234-3-0">9 cheeou</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3151-3-8"
+       width="118.8546"
+       height="31.887817"
+       x="288.61761"
+       y="730.43121">
+      <desc
+         id="desc4127-04-8">(oid:zero)</desc>
+    </rect>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3228-3-8"
+       style="line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="translate(314.08789,578.89065)"><flowRegion
+         id="flowRegion3230-4-3"><rect
+           id="rect3232-8-9"
+           width="99.721901"
+           height="19.712469"
+           x="16.813576"
+           y="159.80107" /></flowRegion><flowPara
+         id="flowPara3234-5-6">0 leen</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4907"
+       width="262.20471"
+       height="372.04724"
+       x="150.89764"
+       y="431.33844" />
+  </g>
+</svg>
