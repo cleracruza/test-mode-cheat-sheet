@@ -1,5 +1,5 @@
 product-id: 922
-comment: debug cheat sheet
+comment: test mode cheat sheet
 init:
 media-path: sounds/%s
 scripts:
