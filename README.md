@@ -6,6 +6,8 @@ Cheat sheet for the test-mode mode of TipToi pens.
 * [Installation](#installation)
 * [Questions/Support](#questionssupport)
 
+[![Build Status](https://travis-ci.org/cleracruza/test-mode-cheat-sheet.svg?branch=master)](https://travis-ci.org/cleracruza/test-mode-cheat-sheet)
+
 ## Motivation
 
 When trying to debug your projects, it is often helpful to see which
