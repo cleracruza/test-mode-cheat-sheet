@@ -13,7 +13,7 @@ Cheat sheet for the test-mode mode of TipToi pens.
 When trying to debug your projects, it is often helpful to see which
 OID the pen scans. TipToi pens come with a test mode that does just
 that by reading out the scanned OIDs (although in Chinese). While
-documentation of that mode [is available](https://github.com/entropia/tip-toi-reveng/wiki/Firmware#test-mode),
+documentation of that mode [is available](https://github.com/entropia/tip-toi-reveng/wiki/PEN-Firmware#test-mode),
 having to look for it again and again along with translation of
 Chinese digits is cumbersome. So we collect all the needed information
 in a single cheat sheet.
